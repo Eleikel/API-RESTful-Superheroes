@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>API WEB Superheroes</name>
+    </assembly>
+    <members>
+        <member name="M:API_WEB_Superheroes.Controllers.SuperHeroeController.Obtener">
+            <summary>
+            Obtener lista de SuperHeroes
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:API_WEB_Superheroes.Controllers.SuperHeroeController.ObtenerPorId(System.Int32)">
+            <summary>
+            Obtener SuperHeroe por ID
+            </summary>
+            <param name="superHeroeId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:API_WEB_Superheroes.Controllers.SuperHeroeController.CrearSuperHeroe(API_WEB_Superheroes.Models.Dto.CrearSuperHeroeDto)">
+            <summary>
+            Crear un nuevo SuperHeroe
+            </summary>
+            <param name="crearSuperHeroeDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:API_WEB_Superheroes.Controllers.SuperHeroeController.ActualizarSuperHeroe(System.Int32,API_WEB_Superheroes.Models.Dto.ActualizarSuperHeroeDto)">
+            <summary>
+            Actualizar un SuperHeroe 
+            </summary>
+            <param name="superHeroeId"></param>
+            <param name="actualizarSuperHeroeDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:API_WEB_Superheroes.Controllers.SuperHeroeController.EliminarSuperHeroe(System.Int32)">
+            <summary>
+            Eliminar un SuperHeroe
+            </summary>
+            <param name="superHeroeId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:API_WEB_Superheroes.Controllers.SuperHeroeController.BuscarSuperHeroe(System.String)">
+            <summary>
+            Buscar SuperHeroe por nombre
+            </summary>
+            <param name="nombreSuperHeroe"></param>
+            <returns></returns>
+        </member>
+        <member name="M:API_WEB_Superheroes.Controllers.UsuarioController.ObtenerUsuarios">
+            <summary>
+            Obtener todos los usuarios
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:API_WEB_Superheroes.Controllers.UsuarioController.ObtenerUsuario(System.Int32)">
+            <summary>
+            Obtener usuario por ID
+            </summary>
+            <param name="userId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:API_WEB_Superheroes.Controllers.UsuarioController.RegistrarUsuario(API_WEB_Superheroes.Models.Dto.UsuarioAutenticacionDto)">
+            <summary>
+            Registrar Usuario
+            </summary>
+            <param name="usuarioAutenticacion"></param>
+            <returns></returns>
+        </member>
+        <member name="M:API_WEB_Superheroes.Controllers.UsuarioController.Login(API_WEB_Superheroes.Models.Dto.UsuarioLoginDto)">
+            <summary>
+            Loguearse / Ingresar
+            </summary>
+            <param name="usuarioLoginDto"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

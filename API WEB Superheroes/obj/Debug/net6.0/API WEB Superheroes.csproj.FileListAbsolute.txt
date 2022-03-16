@@ -1,0 +1,65 @@
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\appsettings.json
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\API WEB Superheroes.exe
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\API WEB Superheroes.deps.json
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\API WEB Superheroes.runtimeconfig.json
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\API WEB Superheroes.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\ref\API WEB Superheroes.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\API WEB Superheroes.pdb
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\API WEB Superheroes.xml
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\obj\Debug\net6.0\API WEB Superheroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\obj\Debug\net6.0\API WEB Superheroes.AssemblyInfoInputs.cache
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\obj\Debug\net6.0\API WEB Superheroes.AssemblyInfo.cs
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\obj\Debug\net6.0\API WEB Superheroes.csproj.CoreCompileInputs.cache
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\obj\Debug\net6.0\API WEB Superheroes.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\obj\Debug\net6.0\API WEB Superheroes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\obj\Debug\net6.0\scopedcss\bundle\API WEB Superheroes.styles.css
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\obj\Debug\net6.0\API WEB Superheroes.csproj.CopyComplete
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\obj\Debug\net6.0\API WEB Superheroes.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\obj\Debug\net6.0\ref\API WEB Superheroes.dll
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\obj\Debug\net6.0\API WEB Superheroes.pdb
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\obj\Debug\net6.0\API WEB Superheroes.genruntimeconfig.cache
+C:\Users\Eleikel\Documents\CURSO C#\API NET CORE\Project API WEB Superheroes\API WEB Superheroes\obj\Debug\net6.0\API WEB Superheroes.csproj.AssemblyReference.cache
